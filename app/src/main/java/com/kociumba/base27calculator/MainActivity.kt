@@ -12,14 +12,17 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.kociumba.base27calculator.ui.theme.Base27CalculatorTheme
 
-class MainActivity : ComponentActivity() {
+/*class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
             Base27CalculatorTheme {
                 // A surface container using the 'background' color from the theme
-                Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colors.background) {
-                    Greeting("Android")
+                Surface(
+                    modifier = Modifier.fillMaxSize(),
+                    color = MaterialTheme.colors.background
+                ) {
+                    Greeting("kociumba")
                 }
             }
         }
@@ -28,13 +31,13 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun Greeting(name: String) {
-    Text(text = "Hello $name!")
+    Text(text = "this is the base 27 calculator. I'm $name! and I would like to say that you need therapy")
 }
 
 @Preview(showBackground = true)
 @Composable
 fun DefaultPreview() {
     Base27CalculatorTheme {
-        Greeting("Android")
+        Greeting("kociumba")
     }
 }

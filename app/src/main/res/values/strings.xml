@@ -1,3 +1,41 @@
 <resources>
     <string name="app_name">base 27 calculator</string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="ten">A</string>
+    <string name="eleven">B</string>
+    <string name="twelve">C</string>
+    <string name="thirteen">D</string>
+    <string name="fourteen">E</string>
+    <string name="fifteen">F</string>
+    <string name="sixteen">G</string>
+    <string name="seventeen">H</string>
+    <string name="eighteen">I</string>
+    <string name="nineteen">J</string>
+    <string name="twenty">K</string>
+    <string name="twenty_one">L</string>
+    <string name="twenty_two">M</string>
+    <string name="twenty_three">N</string>
+    <string name="twenty_four">O</string>
+    <string name="twenty_five">P</string>
+    <string name="twenty_six">Q</string>
+    <string name="zero">0</string>
+
+    <string name="clear">AC</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="equals">=</string>
+    <string name="point">.</string>
+    <string name="exponential">^</string>
+
 </resources>
